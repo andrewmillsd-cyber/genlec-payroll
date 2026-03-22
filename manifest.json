@@ -1,0 +1,13 @@
+{
+  "name": "Gen-Lec Wages",
+  "short_name": "Gen-Lec Wages",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e3a6e",
+  "theme_color": "#1e3a6e",
+  "icons": [
+    { "src": "./icons/icon-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icons/icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
